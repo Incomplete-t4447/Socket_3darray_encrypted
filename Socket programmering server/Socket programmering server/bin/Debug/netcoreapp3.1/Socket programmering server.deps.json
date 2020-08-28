@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Socket programmering server/1.0.0": {
+        "runtime": {
+          "Socket programmering server.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Socket programmering server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

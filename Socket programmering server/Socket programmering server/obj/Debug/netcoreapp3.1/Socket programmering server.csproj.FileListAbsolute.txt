@@ -1,0 +1,13 @@
+C:\Users\Micheal\source\repos\Socket programmering server\Socket programmering server\bin\Debug\netcoreapp3.1\Socket programmering server.exe
+C:\Users\Micheal\source\repos\Socket programmering server\Socket programmering server\bin\Debug\netcoreapp3.1\Socket programmering server.deps.json
+C:\Users\Micheal\source\repos\Socket programmering server\Socket programmering server\bin\Debug\netcoreapp3.1\Socket programmering server.runtimeconfig.json
+C:\Users\Micheal\source\repos\Socket programmering server\Socket programmering server\bin\Debug\netcoreapp3.1\Socket programmering server.runtimeconfig.dev.json
+C:\Users\Micheal\source\repos\Socket programmering server\Socket programmering server\bin\Debug\netcoreapp3.1\Socket programmering server.dll
+C:\Users\Micheal\source\repos\Socket programmering server\Socket programmering server\bin\Debug\netcoreapp3.1\Socket programmering server.pdb
+C:\Users\Micheal\source\repos\Socket programmering server\Socket programmering server\obj\Debug\netcoreapp3.1\Socket programmering server.csprojAssemblyReference.cache
+C:\Users\Micheal\source\repos\Socket programmering server\Socket programmering server\obj\Debug\netcoreapp3.1\Socket programmering server.AssemblyInfoInputs.cache
+C:\Users\Micheal\source\repos\Socket programmering server\Socket programmering server\obj\Debug\netcoreapp3.1\Socket programmering server.AssemblyInfo.cs
+C:\Users\Micheal\source\repos\Socket programmering server\Socket programmering server\obj\Debug\netcoreapp3.1\Socket programmering server.csproj.CoreCompileInputs.cache
+C:\Users\Micheal\source\repos\Socket programmering server\Socket programmering server\obj\Debug\netcoreapp3.1\Socket programmering server.dll
+C:\Users\Micheal\source\repos\Socket programmering server\Socket programmering server\obj\Debug\netcoreapp3.1\Socket programmering server.pdb
+C:\Users\Micheal\source\repos\Socket programmering server\Socket programmering server\obj\Debug\netcoreapp3.1\Socket programmering server.genruntimeconfig.cache
